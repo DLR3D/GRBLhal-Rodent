@@ -64,7 +64,7 @@
    {
     "id": "397",
     "label": "WebUI auto report interval",
-    "value": "0"
+    "value": "1000"
    },
    {
     "id": "398",
