@@ -409,12 +409,12 @@
    {
     "id": "76",
     "label": "WiFi Access Point (AP) SSID",
-    "value": "GRBLHAL"
+    "value": "GRBLHAL_AP"
    },
    {
     "id": "77",
     "label": "WiFi Access Point (AP) Password",
-    "value": "********"
+    "value": "grblHALpwd"
    },
    {
     "id": "78",
